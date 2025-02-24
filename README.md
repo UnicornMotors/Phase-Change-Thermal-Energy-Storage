@@ -4,3 +4,5 @@ science = [(´How Do You Get Heat from a Supercooled Solution? Explore the Chemi
 search = [´https://www.google.com/search?q=gibbs+free+energy´,´https://www.google.com/search?q=hand+warmer+heat+of+crystallization´,´´,´https://www.google.com/search?q=reusable+heat+packs´,´https://www.google.com/search?q=sodium+acetate+heat+pack+chemistry´,´https://www.google.com/search?q=sodium+acetate+heat´,´https://www.google.com/search?q=sodium+acetate+hand+warmer´];
 
 chemistry.video = [´https://youtu.be/NtAvt8FCA2A´,´https://youtu.be/HeyzjC2PYcU´,´https://youtu.be/zNRk7z7UCGQ´]
+
+market = [´https://www.amazon.com/Hot-Go-Reusable-Heat-Packs/dp/B016OA5YK0´]
